@@ -1,3 +1,5 @@
+Moved to: https://github.com/BenWildeman/vscode-tabulous as this has deviated too much from the original and is developed independently to be considered a fork
+
 # Tabulous
 
 Adds tabs for each terminal process to the status bar. It works by registering toggleable status bar buttons when terminals are created via the commands below. This is an extended version of [terminal-tabs](https://github.com/Tyriar/vscode-terminal-tabs).
